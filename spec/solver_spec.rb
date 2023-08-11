@@ -35,21 +35,21 @@ describe Solver do
     end
   end
 
-  describe "#fizzbuzz" do
+  describe '#fizzbuzz' do
     it "returns 'fizz' for input 3" do
-      expect(solver.fizzbuzz(3)).to eq("fizz")
+      expect(solver.fizzbuzz(3)).to eq('fizz')
     end
     it "returns 'buzz' for input 5" do
-      expect(solver.fizzbuzz(5)).to eq("buzz")
+      expect(solver.fizzbuzz(5)).to eq('buzz')
     end
     it "returns 'fizzbuzz' for input 15" do
-      expect(solver.fizzbuzz(15)).to eq("fizzbuzz")
+      expect(solver.fizzbuzz(15)).to eq('fizzbuzz')
     end
     it "returns '7' for input 7" do
-      expect(solver.fizzbuzz(7)).to eq("7")
+      expect(solver.fizzbuzz(7)).to eq('7')
     end
     it "returns '8' for input 8" do
-      expect(solver.fizzbuzz(8)).to eq("8")
+      expect(solver.fizzbuzz(8)).to eq('8')
     end
   end
 end
