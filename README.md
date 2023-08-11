@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 OOP school library <a name="about-project"></a>
+# 📖 TDD <a name="about-project"></a>
 
 **OOP school library** project is an initial step in building a school library app using object-oriented programming in Ruby.
 
@@ -91,9 +91,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  ruby ./person.rb
-  ruby ./student.rb
-  ruby ./teacher.rb
+  ruby ./solver.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -108,7 +106,7 @@ To run the project, execute the following command:
 - Twitter: [@twitterhandle](https://twitter.com/MassamTabraiz)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hafiz-massam-tabraiz-khan-167644255/)
 
-👤 **Wloter**
+👤 **Wolter**
 
 - GitHub: [@Bwambale](https://github.com/wolterbwambale)
 - Twitter: [@Bwambale](https://twitter.com/BwambaleWolter)
