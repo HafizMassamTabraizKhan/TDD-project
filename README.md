@@ -100,7 +100,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Hafiz Massam Tabraiz Khan
+👤 **Hafiz Massam Tabraiz Khan**
 
 - GitHub: [@githubhandle](https://github.com/HafizMassamTabraizKhan)
 - Twitter: [@twitterhandle](https://twitter.com/MassamTabraiz)
